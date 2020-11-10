@@ -7,3 +7,12 @@ Data from the World Bank's Data Bank (World Development Indicators):
   <li><a href="https://data-worldbank-org.proxygw.wrlc.org/indicator/SP.POP.TOTL">Total Population</a></li>
   <li><a href="https://data-worldbank-org.proxygw.wrlc.org/indicator/NY.GDP.MKTP.CD">GDP</a></li>
 </ul>
+
+<p>Sample findings:</p>
+
+<img src="https://github.com/themarkdelong/Data-Mining-Project1/blob/main/Charts/1%20-%20Annual%20Military%20Expenditure.png" alt="Graph of Annual Military Expenditures for 10 Countries">
+
+<img src="https://github.com/themarkdelong/Data-Mining-Project1/blob/main/Charts/4%20-%20Percent%20Change%20of%20Military%20Spending.png" alt="Graph of Percent Change in Military Spending for 10 Countries from 2014 to 2018">
+
+<img src="https://github.com/themarkdelong/Data-Mining-Project1/blob/main/Charts/8%20-%20Per%20Person%20Military%20Spending.png" alt="Graph of Per Person Military Spending for 10 Countries">
+
