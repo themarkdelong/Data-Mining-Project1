@@ -10,9 +10,9 @@ Data from the World Bank's Data Bank (World Development Indicators):
 
 <p>Sample findings:</p>
 
-<img src="https://github.com/themarkdelong/Data-Mining-Project1/blob/main/Charts/1%20-%20Annual%20Military%20Expenditure.png" alt="Graph of Annual Military Expenditures for 10 Countries">
+<a href="https://github.com/themarkdelong/Data-Mining-Project1/blob/main/Charts/1%20-%20Annual%20Military%20Expenditure.png">Graph of Annual Military Expenditures for 10 Countries</a>
 
-<img src="https://github.com/themarkdelong/Data-Mining-Project1/blob/main/Charts/4%20-%20Percent%20Change%20of%20Military%20Spending.png" alt="Graph of Percent Change in Military Spending for 10 Countries from 2014 to 2018">
+<a href="https://github.com/themarkdelong/Data-Mining-Project1/blob/main/Charts/4%20-%20Percent%20Change%20of%20Military%20Spending.png">Graph of Percent Change in Military Spending for 10 Countries from 2014 to 2018</a>
 
-<img src="https://github.com/themarkdelong/Data-Mining-Project1/blob/main/Charts/8%20-%20Per%20Person%20Military%20Spending.png" alt="Graph of Per Person Military Spending for 10 Countries">
+<a href="https://github.com/themarkdelong/Data-Mining-Project1/blob/main/Charts/8%20-%20Per%20Person%20Military%20Spending.png>Graph of Per Person Military Spending for 10 Countries</a>
 
